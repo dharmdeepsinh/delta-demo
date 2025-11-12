@@ -2,4 +2,4 @@
 this is demo 
 
 # teacher
-hii i am taecher
+hii i am teacher
